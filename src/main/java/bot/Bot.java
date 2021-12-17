@@ -179,7 +179,7 @@ public class Bot extends TelegramLongPollingBot {
         System.out.println(formulateRecommendation);
 
         //sendVoice.setNewVoice(new File("C:\\Users\\Artem\\Downloads\\Sample.ogg"));
-        sendVoice.setVoice("afaf");
+        //sendVoice.setVoice("afaf");
 
 
         try {
